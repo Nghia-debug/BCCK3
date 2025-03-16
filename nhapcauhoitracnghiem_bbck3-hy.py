@@ -8,4 +8,8 @@ def nhapcauhoi_tracnghiem():
         cautraloi=input(f'Nhập câu trả lời cho câu {cau[i-1]}: ')
 
 nhapcauhoi_tracnghiem()
+
+
+
+
         
